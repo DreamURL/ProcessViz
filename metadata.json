@@ -1,0 +1,5 @@
+{
+  "name": "ProcessViz AI - Intelligent Process Diagram Generator",
+  "description": "A web application that automatically generates step-by-step visual diagrams and professional audio commentary from complex industrial processes input as text or basic images.",
+  "requestFramePermissions": []
+}
